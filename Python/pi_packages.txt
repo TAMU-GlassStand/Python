@@ -1,0 +1,5 @@
+PyKeyboard
+PyMouse
+SMBus2
+enable i2c-tools
+enable SPI
